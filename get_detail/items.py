@@ -11,4 +11,7 @@ import scrapy
 class GetDetailItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    sevenDaycount=scrapy.Field()
+    totalCount=scrapy.Field()
+    fangurl=scrapy.Field()
     pass

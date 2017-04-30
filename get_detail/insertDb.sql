@@ -1,0 +1,1 @@
+create table lianjiadetail(id int ,fangurl varchar(200),sevenDaycount int,totalCount int,time datetime);
